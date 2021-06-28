@@ -1,0 +1,7 @@
+/* blue for base #011627 and turqoise for border #2EC4B6*/
+
+body{
+  background: #011627;
+  border: 25px solid #2EC4B6;
+  width 25%;
+}
