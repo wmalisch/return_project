@@ -17,7 +17,7 @@ h1{
 .lorem{
   color: #FDFFFC;
   text-align: center;
-  font-family: 'Helvetica';
+  font-family: 'Roboto', sans-serif;
   font-weight: normal;
 }
 
@@ -42,7 +42,7 @@ h1{
 
 .formLabel{
   color: #FDFFFC;
-  font-family: 'Helvetica';
+  font-family: 'Roboto', sans-serif;
 }
 .formItem{
   margin-bottom: 5px;
