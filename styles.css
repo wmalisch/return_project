@@ -2,6 +2,48 @@
 
 body{
   background: #011627;
-  border: 25px solid #2EC4B6;
+  border-left: 45px solid #2EC4B6;
+  border-bottom: 45px solid #2EC4B6;
+  border-right: 45px solid #2EC4B6;
+  margin-left: 0;
+  margin-right: 0;
   width 25%;
+}
+
+h1{
+  color: #FDFFFC;
+}
+
+.lorem{
+  color: #FDFFFC;
+  text-align: center;
+  font-family: 'Helvetica';
+  font-weight: normal;
+}
+
+#bottom{
+  margin-bottom: 50px;
+}
+
+#mainHead{
+  font-size: 26px;
+}
+
+.ipsum{
+  width: 58%;
+  font-size: 13px;
+  margin-left: 230px;
+  margin-top: 100px;
+}
+
+#mainForm{
+  text-align: center;
+}
+
+.formLabel{
+  color: #FDFFFC;
+  font-family: 'Helvetica';
+}
+.formItem{
+  margin-bottom: 5px;
 }
